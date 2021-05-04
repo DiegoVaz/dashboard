@@ -10,7 +10,7 @@
     <a href="https://github.com/DiegoVaz/dashboard/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/DiegoVaz/dashboard"></a>
 </div>
 <h1 align="center">
-  <img alt="printTela" title="#Dashboard - ADM" src="./public/banner.PNG" />
+  <img alt="printTela" title="#Dashboard - ADM" src="./banner.PNG" />
 </h1>
 <h4 align="center"> 
 	🚧 Em construção...  🚧
