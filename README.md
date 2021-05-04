@@ -9,7 +9,9 @@
     <a href="https://github.com/DiegoVaz/dashboard/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/DiegoVaz/dashboard"></a>
     <a href="https://github.com/DiegoVaz/dashboard/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/DiegoVaz/dashboard"></a>
 </div>
-
+<h1 align="center">
+  <img alt="printTela" title="#Dashboard - ADM" src="./public/banner.PNG" />
+</h1>
 <h4 align="center"> 
 	🚧 Em construção...  🚧
 </h4>
