@@ -1,5 +1,5 @@
 import { FaBars, FaSearch, FaUserCircle, FaRegClock } from "react-icons/fa";
-
+//import scss
 import styles from "./styles.module.scss";
 
 export default function NavbarComponent({ openSidebar, sidebarOpen }) {
